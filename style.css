@@ -1,0 +1,27 @@
+#first{
+    border: 2px dotted blue;
+    background-color: aquamarine;
+    color: blueviolet;
+}
+
+
+#second{
+    border: 2px solid red;
+    border-radius: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+    background-color: aqua;
+    padding: 20px 30px 30px 20px;
+    color: cadetblue;
+    box-shadow: 10px 10px 20px 20px;
+
+}
+
+
+#third{
+    border: 2px solid black;
+    background-color: blue;
+    padding: 50px 30px 50px 30px;
+    color: cornflowerblue;
+
+
+}
